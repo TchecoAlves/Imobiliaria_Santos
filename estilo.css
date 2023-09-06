@@ -1,0 +1,124 @@
+/* Secao geral usada em todas as Div do HTML*/
+.secao {
+    font-family: Tahoma;
+    margin: -8px -8px 50px -8px;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+/* Paragrafo Geral*/
+.paragrafo {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;    
+}
+
+/* Span geral colocando em formato de Negrito*/
+span {
+    font-weight: bold;
+}
+
+/* Inicio da 1° Seção */
+.fundo-azul {
+    background-color: rgb(0, 217, 255);
+}
+
+.imagem-logo {
+    width: 150px;
+}
+
+.paragrafo-topo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.link-topo {
+    font-size: 18px;
+    color:black;
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+}
+
+/* Inicio da 3° Seção */
+h1{
+    color: black;
+    margin-bottom: 5px;
+}
+
+.sub-titulo {
+    color: cornflowerblue;
+    margin-top: -8px;
+    font-weight: normal;
+}
+
+.imagem-assinatura {
+    width:  450px;
+}
+
+.texto-azul {
+    color: cornflowerblue;
+}
+
+/* Inicio da 4° Seção */
+.sub-titulo1 {
+    color: white;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafo-quarta-secao {
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo {
+    color: yellow;
+}
+
+ul {
+    margin: 40px auto;
+    width: 135px;
+}
+
+li {
+    color: white;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* 5° Seção reaproveitando codigos ja criados */
+
+/* Inicio da 6° Seção */
+.paragrafo-sexta-secao {
+    color: white;
+    background-color: black;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.lista {
+    margin: 40px auto;
+    width: 210px;
+
+}
+
+.itens-lista {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-lista {
+    background-color: white;
+    color: cornflowerblue;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
